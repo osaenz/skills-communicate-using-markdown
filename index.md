@@ -10,3 +10,11 @@
 IList<int> myList = new List<int>();
 Console.WriteLine("Starting on Github!");
 ```
+
+## List of tasks for learning markdown
+
+- [x] Add headers.
+- [x] Add images.
+- [x] Add code snippets.
+- [x] Add list of tasks.
+- [ ] Continue with?
